@@ -3,10 +3,10 @@
     <channel>
         <title>GongCha Kiosk Update</title>
         <item>
-            <title>version 1.0.5</title>
+            <title>version 1.0.1</title>
             <pubDate>Tue, 30 Jun 2026 12:00:00 +0700</pubDate>
             <enclosure url="https://github.com/thanvasu-cloud/App-kios-gongcha-release/releases/download/v4.0.0/GongchaKiosApp_Installer6_11_68.V4.exe"
-                       sparkle:version="1.0.5"
+                       sparkle:version="1.0.1"
                        sparkle:os="windows" />
         </item>
     </channel>
